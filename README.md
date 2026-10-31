@@ -1,4 +1,4 @@
-# Cross-Sectional Momentum Trading Bot
+# Automated Portfolio Manager
 
 A backtested and paper-traded implementation of a cross-sectional momentum strategy,
 following the Jegadeesh–Titman (1993) methodology. The system ranks a universe
