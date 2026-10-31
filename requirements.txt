@@ -1,0 +1,8 @@
+pandas
+numpy
+xgboost
+vectorbt
+tqdm
+yfinance
+hmmlearn
+scikit-learn

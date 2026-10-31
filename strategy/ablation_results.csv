@@ -1,0 +1,6 @@
+,Total Return %,Sharpe,Max DD %,Turnover %,Months Invested,Avg Holdings
+Benchmark (EW all),84.4,0.92,-16.9,0.0,60.0,50.0
+1. Momentum only,92.5,0.82,-13.5,28.1,60.0,5.0
+2. + Regime,76.6,0.82,-8.6,29.8,60.0,5.0
+3. + Meta-label,116.2,0.99,-11.0,53.9,60.0,3.8
+4. Full stack,92.7,0.9,-9.0,50.7,60.0,3.8
